@@ -1,0 +1,16 @@
+.td1{
+    width: auto;
+    color: #110252;
+}
+.info{
+    font-size: large;
+    overflow-x:"auto";
+}
+.td2{
+    width: 90px;
+    height: 80px;
+    color: #07447b;
+}
+.table2{
+    overflow-x: auto;
+}
